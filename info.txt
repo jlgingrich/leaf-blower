@@ -1,0 +1,4 @@
+name = Leaf Blower
+author = Nautilus R&D
+description = Handheld leaf blower to rapidly clear away small debris.
+tags = Tool
